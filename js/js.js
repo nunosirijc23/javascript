@@ -12,6 +12,6 @@ class Pumbler extends Pessoa {
     }
 }
 
-let canalizador = new Pumbler("Nuno", 21, 30000);
+let canalizador = new Pumbler("Nuno", 21, 1000000);
 
 console.log(canalizador.nome);
