@@ -23,6 +23,6 @@ function mostarNomes() {
 var array = new Array('Nome', 'Idade', 'Sexo');
 var arrays = ['Nome', 'Idade', 'Sexo']; //forma literal de cria um array
 
-console.log(typeof pessoa) //verificar se pessoa é um objecto
-mostarNome(); //executar a função mostrarNome
+console.log(typeof pessoa) //verificar se pessoa é qual dos tipos de referência
+mostarNomes(); //executar a função mostrarNome
 console.log(array);
